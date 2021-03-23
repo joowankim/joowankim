@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rlawndhks217@gmail.com**
 
-- 📙 What I'm reading 객체지향의 사실과 오 
+- 📙 What I'm reading 객체지향의 사실과 오해
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joowankim)](https://github.com/anuraghazra/github-readme-stats)
 
