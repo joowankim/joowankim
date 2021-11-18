@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joowan Kim</h1>
 <h3 align="center">A passionate backend developer who loves OOP from Korea</h3>
 
-- 🌱 I’m currently learning **OOP, Github Actions, TypeScript, Kotlin, Spring**
+- 🌱 I’m currently learning **OOP, Github Actions, Fastapi, Python, Kotlin, Spring**
 
-- 💬 Ask me about **python, django, OOP**
+- 💬 Ask me about **python, django, Fastapi, OOP**
 
 - 📫 How to reach me **rlawndhks217@gmail.com**
 
-- 📙 What I'm reading 객체지향의 사실과 오해
+- 📙 What I'm reading 코드 컴플리트 2/e
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joowankim)](https://github.com/anuraghazra/github-readme-stats)
 
