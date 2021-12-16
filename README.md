@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joowan Kim</h1>
 <h3 align="center">A passionate backend developer who loves OOP from Korea</h3>
 
-- 🌱 I’m currently learning **OOP, Github Actions, Fastapi, Python, Kotlin, Spring**
+- 🌱 I’m currently learning **OOP, Github Actions, Fastapi, Python, Java, Spring**
 
 - 💬 Ask me about **python, django, Fastapi, OOP**
 
