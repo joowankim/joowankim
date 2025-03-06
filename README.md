@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **rlawndhks217@gmail.com**
 
-- 📙 What I'm reading 코드 컴플리트 2/e
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joowankim)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
